@@ -1,0 +1,12 @@
+2022-06-30
+	Fixed bug with the database code, it works properly now
+	Added a CarOptions variable that will toggle a False to a True if there's an option you want
+		Driver Assist Package for instance
+	
+
+2022-06-29
+	Added a few new utilities to make automation easier
+	Added a database folder and CSVs of each trim so "first seen" can be tracked
+		Allows you to quickly determine if any VINs are new since the last list
+	Added date stamp to the API error log 
+	Updated Dealers.CSV with missing dealer information
